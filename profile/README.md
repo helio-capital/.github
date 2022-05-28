@@ -1,6 +1,6 @@
 # Helio Capital
 
-We are a leading multi-manager crypto hedge fund platform.
+Helio Capital is a leading multi-manager crypto hedge fund platform.
 
 We are dedicated to building an institutionalised cryptocurrency hedge fund platform to deliver exceptional returns for our investors, by focusing on strong quantitative analysis and rigorous risk management.
 
